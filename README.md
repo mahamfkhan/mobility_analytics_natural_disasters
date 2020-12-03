@@ -1,2 +1,4 @@
 # mobility_analytics_natural_disasters
-Using mobility data to quantify disaster impact
+
+This repository illustrates the utility of mobility data from Facebook Movement Range Maps for quantifying disaster impact, using recent flooding in Vietnam and the Philippines as examples.
+
